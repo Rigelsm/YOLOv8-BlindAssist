@@ -1,0 +1,15 @@
+Dataset consists of 12 object classes:
+- Person
+- Chair
+- Table
+- Bollard
+- Tree
+- Pole
+- Truck
+- Bicycle
+- Motorcycle
+- Car
+- Cart
+- Zebra Cross
+
+Dataset collected from Google and Roboflow.
