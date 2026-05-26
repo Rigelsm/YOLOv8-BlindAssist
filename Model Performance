@@ -1,0 +1,8 @@
+## Model Performance
+
+| Metric | Score |
+|---|---|
+| mAP50 | 0.874 |
+| mAP50-95 | 0.597 |
+| Precision | 0.932 |
+| Recall | 0.812 |
