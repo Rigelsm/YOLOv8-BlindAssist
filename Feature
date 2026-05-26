@@ -1,0 +1,6 @@
+## Features
+- Real-time object detection using YOLOv8
+- Voice feedback using Google Text-to-Speech (gTTS)
+- Webcam integration with OpenCV
+- Detection of 12 object classes
+- Designed for visually impaired assistance
