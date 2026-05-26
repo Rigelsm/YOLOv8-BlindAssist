@@ -1,0 +1,6 @@
+```text
+ultralytics
+opencv-python
+gtts
+pygame
+numpy
